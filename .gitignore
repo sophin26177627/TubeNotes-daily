@@ -1,0 +1,4 @@
+# Local secrets and scratch output: never commit
+*.local
+out/
+node_modules/

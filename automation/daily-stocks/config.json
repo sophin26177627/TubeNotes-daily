@@ -1,0 +1,29 @@
+{
+  "supabaseUrl": "https://nqzclrypltlatossusbi.supabase.co",
+  "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5xemNscnlwbHRsYXRvc3N1c2JpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY1OTk5NDgsImV4cCI6MjA5MjE3NTk0OH0.2QPV_jkxPl6N-umVEHXZIvWWu6_v6Yhyf_B_3wd-4tw",
+  "lookbackDays": 7,
+  "notBefore": "2026-10-08",
+  "transcriptLang": "zh",
+  "supadataResetDay": 9,
+  "channels": [
+    {
+      "key": "ustv",
+      "name": "錢線百分百",
+      "channelId": "UCYIVkruUoN04UjV9pkBTswg",
+      "titlePattern": "【錢線百分百】\\s*\\d{8}\\s*完整版\\s*[(（](上集|中集|下集|全集)[)）]"
+    },
+    {
+      "key": "unclestock",
+      "name": "韭菜畢業班",
+      "channelId": "UCtnyKmJ_F2iO3_MObmY8u1w",
+      "titlePattern": "EP\\s*\\d+",
+      "minDurationSeconds": 600
+    },
+    {
+      "key": "hongye",
+      "name": "宏爺講股",
+      "channelId": "UC25CsqDNQv6CdzDq_hsazIw",
+      "minDurationSeconds": 180
+    }
+  ]
+}
